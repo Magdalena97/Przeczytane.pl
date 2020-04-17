@@ -22,6 +22,7 @@ Po zalogowaniu się użytkownik zostaje przeniesiony na ekran główny aplikacji
 Domyślnie wyświetlana jest zakładka Moje książki. Przedstawia ona listę wszystkich          książek dodanych przez użytkownika wraz z podstawowymi informacjami.Mamy dostęp do takich funkcjonalności jak: usuwanie danej książki, widok szczegółowy, sortowanie ze względu na oceny. 
 
 <img src="./photo/mojeksiazki2.PNG" alt="Moje książki">
+
 ### Zakładka widoku szczegółowego 
 Za pomocą linku zobacz więcej… , który jest umieszczony przy każdej skróconej            reprezentacji książki zarówno na ekranie Moje książki jak przy widoku z podziałem            książek na kategorię, można przejść do ekranu wyświetlającego szczegóły danej lektury.
 
@@ -42,6 +43,7 @@ Do każdej z tych opcji dopisana jest odpowiednia funkcjonalność umożliwiają
 
 <img src="./photo/ustawieniaprofilu.PNG" alt="Ustawienia profilu">
 <em>Obrazek 1: Przykładowe okno dialogowe wyświetlane przy próbie zmiany hasła </em>  
+
 ### Zakładka Kategorie 
 Ostatnią omawianą zakładką będą Kategorie zawierającą zestaw domyślnych kategorii takich jak np: ostatnio dodane, ulubione, literatura faktu, fantastyka, horror,literatura młodzieżowa i wiele innych. W przypadku próby wyświetlenia lektur z   kategorii ostatnio dodane pokażą się takie, które zostały dodane nie później niż w ciągu jednego miesiąca. Kategoria ulubione agreguje te lektury, których ocena w rankingu jest równa bądź większa niż 4.
 
